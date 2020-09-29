@@ -1,6 +1,7 @@
 {
   "name": "js-lessons-deploy",
   "version": "0.1.0",
+  "homepage": "https://henningsover.github.io/js-lessons-deploy",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
